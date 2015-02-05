@@ -1,6 +1,6 @@
 GROUP=eavatar
 NAME=haproxy
-VERSION=1.5.11
+VERSION=1.5.11-1
 
 all: build tag
 
